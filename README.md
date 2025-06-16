@@ -3,6 +3,8 @@ This project was inspired by John Purcell's Java for Complete Beginners course.
 
 The calculator uses the Harris-Benedict equation for basal metabolic rate and multiples the BMR by the activity level of the user.
 
+It makes use of Java's Scanner class to get input from the user.
+
 Feel free to use it in any way you wish (college assignments, teaching, etc). Attribution would be nice as a matter of courtesy, however, it is not necessary.
 
 I have tested it, though not thoroughly, so it may have errors. Feel free to make improvements. Make a note of the amendments you made especially if you need to submit evidence of work.
